@@ -95,4 +95,4 @@ ESP32는 Arduino IDE에서 `patient_tag.ino`를 업로드한다.
 
 ## 시연 영상
 
-(유튜브 링크)
+(https://youtu.be/x1sqf4skzQM?si=glTLnzArZDRNeql4)
